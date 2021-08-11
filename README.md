@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolGs
-- 👀 I’m interested in Cyber Security and Information Technologies
-- 🌱 I’m currently studing Informatics Engineering
+- 👀 Interested in Cyber Security and Information Technologies
+- 🌱 Informatics Engineering student
 - 📫 How to reach me: polgalvezsoriano@gmail.com
 - 🟢 www.polgalvez.xyz
 <!---
