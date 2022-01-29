@@ -3,10 +3,4 @@
 - 🌱 Informatics Engineering student
 - 📫 How to reach me: polgalvezsoriano@gmail.com
 - 🟢 www.polgalvez.xyz
-<!---
-PolGs/PolGs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-##### Tools:
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![image](https://user-images.githubusercontent.com/19478700/129352682-b766fbeb-7aef-43ee-9a93-752bd53aa0c9.png)
