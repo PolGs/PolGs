@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm PolGs!
+# 👋 Hey there
 
 <div align="center">
   
