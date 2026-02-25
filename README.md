@@ -14,7 +14,7 @@ SOC Beacon ingests logs, runs YARA + Sigma rules, and enriches every alert with 
 Focused on alerting and detection for high-severity events — not a visibility or threat hunting suite.  
 ### 💬 [Vassoria](https://vassoria.com/)  
 Shopify App for customer support chat.
-### 🔍 [FileScanner.online](https://filescanner.online/)  
+### 📁 [FileScanner.online](https://filescanner.online/)  
 Online file analysis service — scan and analyze files in your browser.
 ### 🔍 [URLScanner.online](https://urlscanner.online/)  
 Online URL analysis service — scan and analyze websites and URLs in your browser.
