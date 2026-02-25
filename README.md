@@ -22,7 +22,7 @@ Online URL analysis service — scan and analyze websites and URLs in your brows
 Indie Games.
 ### ☁️ [Kinetic Cloud](https://kineticcloud.es/)  
 Hosting and web development.
-### ☁️ [DnD Initiative Tracker](https://dndinitiativetracker.com/)  
+### 🎲 [DnD Initiative Tracker](https://dndinitiativetracker.com/)  
 DnD 5e and TTRPG Web Initiative Tracker.
 
 ---
